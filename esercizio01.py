@@ -1,3 +1,4 @@
+print("esercizio 1")
 # importo math cosi posso calcolare radice quadrata con i metodi python
 import math
 
